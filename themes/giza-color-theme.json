@@ -497,6 +497,7 @@
         "foreground": "#d4b086"
       }
     },
+
     {
       "name": "Tag",
       "scope": "entity.name.tag",
@@ -716,14 +717,14 @@
       "name": "Class Name",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#d44e4e"
+        "foreground": "#e14141"
       }
     },
     {
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#f5da45"
+        "foreground": "#e14141"
       }
     },
     {
@@ -740,22 +741,19 @@
         "support.type.map.key"
       ],
       "settings": {
-        "foreground": "#d32828"
+        "foreground": "#e4c495"
       }
     },
     {
       "name": "CSS Font",
       "scope": ["support.constant.font-name", "meta.definition.variable"],
       "settings": {
-        "foreground": "#4db8fa"
+        "foreground": "#d44e4e"
       }
     },
     {
       "name": "CSS Class",
-      "scope": [
-        "entity.other.attribute-name.class",
-        "meta.at-rule.mixin.scss entity.name.function.scss"
-      ],
+      "scope": ["entity.other.attribute-name.class"],
       "settings": {
         "foreground": "#fabd4d"
       }
@@ -976,7 +974,7 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#b4f9f8"
+        "foreground": "#ffe96e"
       }
     },
     {
@@ -990,7 +988,7 @@
       "name": "Regular Expressions - Character Class",
       "scope": ["constant.other.character-class.regexp"],
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#f79ac2"
       }
     },
     {
@@ -1007,21 +1005,21 @@
       "name": "Regular Expressions - Quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#89ddff"
+        "foreground": "#ff9189"
       }
     },
     {
       "name": "Regular Expressions - Backslash",
       "scope": "constant.character.escape.backslash",
       "settings": {
-        "foreground": "#c0caf5"
+        "foreground": "#d7fba2"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#89ddff"
+        "foreground": "#ffca89"
       }
     },
     {
@@ -1031,7 +1029,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#7aa2f7"
+        "foreground": "#f77aac"
       }
     },
     {
