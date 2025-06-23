@@ -371,7 +371,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#50cce2"
+        "foreground": "#9496ffda"
       }
     },
     {
@@ -783,6 +783,13 @@
       ],
       "settings": {
         "foreground": "#f0842d"
+      }
+    },
+    {
+      "name": "CSS deprecated propeties",
+      "scope": "invalid.deprecated.color.system.css",
+      "settings": {
+        "foreground": "#9496ffda"
       }
     },
     {
